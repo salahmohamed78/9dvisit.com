@@ -1,0 +1,333 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_75A6AD7F_6175_D8DF_41C2_A74610B18DC4.source = Https://ofoqeg.com/vr/chalet 
+LinkBehaviour_2EE1D3B0_629E_2862_415A_7CDB2FD84280.source = Https://ofoqeg.com/vr/chalet 
+LinkBehaviour_531935BD_6196_2863_41D0_1BBF739A7544.source = Https://ofoqeg.com/vr/lotus 
+LinkBehaviour_729B6FB9_617A_5863_41D3_D8096BF4DAF6.source = Https://ofoqeg.com/vr/lotus 
+LinkBehaviour_756B4BA1_6176_3863_41D1_AA17243FECCB.source = Https://ofoqeg.com/vr/mivida 
+LinkBehaviour_531905C0_6196_2821_41CC_5DEADD0C324E.source = Https://ofoqeg.com/vr/mivida 
+LinkBehaviour_75ED565B_617A_E827_41D1_482FAD2046E6.source = Https://ofoqeg.com/vr/office 
+LinkBehaviour_531995BB_6196_2867_41C5_9CA4C4E98062.source = Https://ofoqeg.com/vr/office 
+LinkBehaviour_531A15BA_6196_2861_41D3_7CE232EA7F02.source = Https://ofoqeg.com/vr/sodic 
+LinkBehaviour_72BEA393_617A_6827_41C4_0BF0074FB102.source = Https://ofoqeg.com/vr/sodic 
+LinkBehaviour_475771F3_5995_2905_4194_7231A1A5D24B.source = http://ufcgymegypt.me/frontend/web/vr/capital/
+LinkBehaviour_561E5533_598F_6904_41C5_872105330DF8.source = http://ufcgymegypt.me/frontend/web/vr/capital/
+LinkBehaviour_56A1B2EB_598D_2B04_417C_5E221B5F05DE.source = http://ufcgymegypt.me/frontend/web/vr/club
+LinkBehaviour_475A21F1_5995_2905_41BC_19648924CC71.source = http://ufcgymegypt.me/frontend/web/vr/club
+LinkBehaviour_492C8344_598F_6903_4173_BA0443434A7A.source = http://ufcgymegypt.me/frontend/web/vr/zayed
+LinkBehaviour_4754D1F5_5995_290D_41C3_711ACECFC476.source = http://ufcgymegypt.me/frontend/web/vr/zayed
+LinkBehaviour_46157E34_54DC_4A7B_41C8_3AD61878DF01.source = http://vr.goldsgymsanstefano.com/
+LinkBehaviour_47A1EBBA_599A_F907_41D2_9F56D2A81BAE.source = http://vr.goldsgymsanstefano.com/
+LinkBehaviour_562E3FB5_598D_390D_41D0_861BC2AF2498.source = http://worldgymnasrcity.com/vr
+LinkBehaviour_44A91F43_5995_3904_41C6_D1D127391FFB.source = http://worldgymnasrcity.com/vr
+LinkBehaviour_74587207_617E_682F_41D8_1306FBA0A594.source = https://9dvisit.com/vr/coldwell/dunes
+LinkBehaviour_29865638_628A_6861_41D5_26E1DBF2FDE0.source = https://9dvisit.com/vr/coldwell/dunes
+LinkBehaviour_47E1B2C6_599B_EB0F_41C4_55067FDB7902.source = https://9dvisit.com/vr/edition/e200
+LinkBehaviour_4572D1E2_54C5_D61F_41C8_81125C85DB90.source = https://9dvisit.com/vr/edition/e200
+LinkBehaviour_4493064C_599B_6B1C_41D4_3AB5C8BD3889.source = https://9dvisit.com/vr/hub
+LinkBehaviour_5A8A8EEE_54C4_CBE7_41D1_B75DC22918A9.source = https://9dvisit.com/vr/hub
+LinkBehaviour_63640CB1_7373_4965_41D3_1144C9C566E2.source = https://9dvisit.com/vr/isqan/coldwell/1
+LinkBehaviour_78DF45B7_694A_D9CA_41D4_4B7B0FC4A838.source = https://9dvisit.com/vr/isqan/coldwell/1
+LinkBehaviour_4491F649_599B_6B04_4155_FCC52B4B0610.source = https://9dvisit.com/vr/lyman
+LinkBehaviour_5A8D7EEB_54C4_CBEE_41C2_50047885AABC.source = https://9dvisit.com/vr/lyman
+LinkBehaviour_5319F5B8_6196_2861_41D1_B823623432DF.source = https://9dvisit.com/vr/mv/icity
+LinkBehaviour_744F9DA0_617A_7862_41C6_088FBDCF918A.source = https://9dvisit.com/vr/mv/icity
+LinkBehaviour_531AC5B1_6196_2863_41D0_98A8F9C24D78.source = https://9dvisit.com/vr/remax/mohager/madinaty
+LinkBehaviour_729D36E0_617A_29E1_41D4_DD2A17EDB2BB.source = https://9dvisit.com/vr/remax/mohager/madinaty
+LinkBehaviour_44A90F45_5995_390D_41B1_1A196FBC47E3.source = https://befit360vr.com
+LinkBehaviour_562EFFB8_598D_3903_41D1_C0E247F56687.source = https://befit360vr.com
+LinkBehaviour_44AB2F47_5995_390D_41A9_2AE27CC2E9EE.source = https://befit360vr.com/pk1
+LinkBehaviour_4BD3C10A_598D_6907_41AF_F2B4E5152272.source = https://befit360vr.com/pk1
+LinkBehaviour_46124E33_54DC_4A7D_41CC_8CC9392F0958.source = https://goldsgymegypt.com/vr
+LinkBehaviour_47A02BB8_599A_F903_41C7_07A2134A1F82.source = https://goldsgymegypt.com/vr
+LinkBehaviour_4612EE32_54DC_4A7F_41CB_0F09355272AF.source = https://goldsgymegypt.com/vr/concord/
+WebFrame_4C788D12_6016_A708_41CF_99EAA585EC13.url = https://ngegypt.net/virtual-tour/web/
+WebFrame_4C788D12_6016_A708_41CF_99EAA585EC13_mobile.url = https://ngegypt.net/virtual-tour/web/
+LinkBehaviour_749515A3_6176_2867_41A6_F64C80BF85CE.source = https://remaxab.com.eg/v-r/ara/index.htm
+LinkBehaviour_74DC7DEF_617E_5BFF_418C_1C93A8F5609B.source = https://vdevelopments.net/vr
+LinkBehaviour_531A45B3_6196_2867_41C5_39A403798DCA.source = https://vdevelopments.net/vr
+LinkBehaviour_4491C64B_599B_6B04_41CE_6063777DE426.source = https://vossexotics.com
+LinkBehaviour_5A8B6EED_54C4_CBEA_41D2_8BBCE5B8246C.source = https://vossexotics.com
+LinkBehaviour_A4E113CA_BF4A_E17C_41D4_CFDAA0922E1A.source = https://wa.me/201220000538
+LinkBehaviour_531E55A3_6196_2867_41CD_C1DBAB6F57E8.source = https://wa.me/201220000538
+LinkBehaviour_531FF59D_6196_2823_41D6_CF851CA7A02A.source = https://www.facebook.com/9dvisit
+LinkBehaviour_531EE5A1_6196_2863_41C6_6577965D5341.source = https://www.facebook.com/9dvisit
+LinkBehaviour_A4E2B3CA_BF4A_E17C_41D4_AC2196EEC04B.source = https://www.facebook.com/9dvisit
+LinkBehaviour_7CB92644_6196_2821_41B5_ACE52B9D28E9.source = https://www.facebook.com/9dvisit
+LinkBehaviour_531B05B4_6196_2861_4161_13B693004DDA.source = https://www.remaxab.com.eg/v-r/ara/index.htm
+LinkBehaviour_4E21FC24_5F8A_E6F9_41BB_6393672BF41E.source = https://www.youtube.com/channel/UCy96CCub9TCUQB8QPEizhcw
+LinkBehaviour_531EE5A2_6196_2861_41BD_D8AC7A6B0A0D.source = https://www.youtube.com/channel/UCy96CCub9TCUQB8QPEizhcw
+WebFrame_5AD21F21_61BA_3863_41CC_A6298903C0DE_mobile.url = //www.youtube.com/embed/nzEgJWTxQ7A
+WebFrame_755960FF_602A_B8AC_41A2_7445C45E87B0.url = //www.youtube.com/embed/nzEgJWTxQ7A
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_5D356C80_54C4_CE1B_41D3_EABDC577A3D2.text = 360 Virtual Tours \
+ \
+Virtual Reality Applications \
+ \
+Google Street View Virtual Tours \
+ \
+360 Photography \
+ \
+360 Videography \
+ \
+360 Product Photography \
+ \
+High resolution Gigapixel Panoramas \
+ \
+360 Car Interior & Exterior
+HotspotPanoramaOverlayTextImage_5D350C80_54C4_CE1B_41D0_89569B85EEC9.text = 9D Visit is a professional virtual tour provider. Virtual tour is an advanced technology that allows your clients to step inside your business to take a full 3D tour without leaving the comfort of their own homes. Whether you’re a real estate, school, hotel, gym, vehicle store or an interior design firm; a virtual tour can bring that extra visibility to your business.  \
+ \
+There’s a big difference between a website with some text and images, and an immersive, interactive experience — and custom virtual tours give you that edge. Moreover, Due to the pandemic of covid-19, this is a way for introducing people to your business without having to physically be there thus increasing visibility and sales. 
+HotspotPanoramaOverlayTextImage_5D353C80_54C4_CE1B_41B7_F504CFAE06E7.text = About Us
+HotspotPanoramaOverlayTextImage_5D354C80_54C4_CE1B_41D0_181C139FCD1A.text = Contact Us
+HotspotPanoramaOverlayTextImage_5D357C80_54C4_CE1B_4158_199DF8D46E40.text = Portfolio
+HotspotPanoramaOverlayTextImage_5D34AC80_54C4_CE1B_41CA_A09C522031D0.text = Salah Mohamed \
+ \
+Phonne: +20-122-0000-538 \
+ \
+Email: info@9dvisit..com
+HotspotPanoramaOverlayTextImage_5D35CC81_54C4_CE1D_41AB_4F2EB8CA43C6.text = Services
+HotspotPanoramaOverlayTextImage_5D351C80_54C4_CE1B_41D1_DFC5683BCB75.text = View Examples
+HotspotPanoramaOverlayTextImage_5D35DC81_54C4_CE1D_4186_4BAB49340D4E.text = View Portfolio
+
+### Tooltip
+HotspotPanoramaOverlayArea_0626D23A_2A22_9B5E_41BD_F5381788FF21.toolTip = Press
+
+## Media
+
+### Image
+imlevel_40D9AE04_599D_7B0C_41D2_5D88897245E2.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_338eu0u0_en.png
+imlevel_43569277_599D_6B0D_41D4_E2A0823F48FD.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_6j8jmx3j_en.png
+imlevel_40DB8E4D_599D_7B1C_41C8_614A354D7128.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_77l8hktr_en.png
+imlevel_40BF8824_599D_670C_4198_D2B734D4223A.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_7ceiv35z_en.png
+imlevel_45DE1E0A_599D_1B04_41C4_9C4F00682804.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_n9rjc6gq_en.png
+imlevel_4352108A_599D_6707_41CC_51A0EDE256B0.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_nz420sbc_en.png
+imlevel_40D5E120_599D_6903_41D3_CF6D46182EB4.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_onr9tvj1_en.png
+imlevel_79468D73_599D_7905_41CF_CD8327C853B8.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_qb05ypjm_en.png
+imlevel_46BE47B6_599D_690F_41D4_AE0291125861.url = media/panorama_59070085_4D27_B338_41C9_043A3F2C0669_HS_v7x6d7cr_en.png
+
+### Title
+panorama_59070085_4D27_B338_41C9_043A3F2C0669.label = Home
+video_76A3630F_60EA_E318_41D2_942FB4C075D0.label = google-maps
+panorama_6EB95C49_602E_AFD7_41D5_4E260197F67A.label = interior
+panorama_706B3452_6016_FFF4_41AE_922CE5C0C600.label = panorama_E61857AA_FB17_7156_41E5_72853FB0B1C7_0_t
+video_7F53CC75_5F89_675B_41D5_412F15502DE5.label = site-vr-video
+video_74AF8530_6076_B9B4_41C1_5F9F521F3DAE.label = vr-app
+
+### Video
+videolevel_69B29A04_598B_7B03_41C9_7C80940A3098.url = media/video_74AF8530_6076_B9B4_41C1_5F9F521F3DAE_en.mp4
+videolevel_69B29A04_598B_7B03_41C9_7C80940A3098.posterURL = media/video_74AF8530_6076_B9B4_41C1_5F9F521F3DAE_poster_en.jpg
+videolevel_69BC7A27_598B_7B0D_41D6_614611389332.url = media/video_76A3630F_60EA_E318_41D2_942FB4C075D0_en.mp4
+videolevel_69BC7A27_598B_7B0D_41D6_614611389332.posterURL = media/video_76A3630F_60EA_E318_41D2_942FB4C075D0_poster_en.jpg
+videolevel_69B669A2_598B_7904_41CB_E0773E24EF09.url = media/video_7F53CC75_5F89_675B_41D5_412F15502DE5_en.mp4
+videolevel_69B669A2_598B_7904_41CB_E0773E24EF09.posterURL = media/video_7F53CC75_5F89_675B_41D5_412F15502DE5_poster_en.jpg
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = 9D Visit
+
+## Skin
+
+### Button
+Button_411403F4_6166_AB79_4199_F21E34CC6882_mobile.label = About Us
+Button_411403F4_6166_AB79_4199_F21E34CC6882.label = About Us
+Button_49070F03_602D_E308_41AF_8988314FAB1D.label = Cars
+Button_569E960E_618E_6821_41B0_A5DCA823ED0A_mobile.label = Cars
+Button_40A1F79C_612D_ABA9_41C8_856AD7715F48_mobile.label = Clients
+Button_40A1F79C_612D_ABA9_41C8_856AD7715F48.label = Clients
+Button_431C0517_612D_ECA7_41D6_17AE5D0FF1ED.label = Contact Us
+Button_431C0517_612D_ECA7_41D6_17AE5D0FF1ED_mobile.label = Contact Us
+Button_0EC9C077_2A5E_97D6_41B6_0E9E6B45EE7B_mobile.label = Gyms
+Button_0B6116DF_2A63_98D6_41C4_FE19AA739953.label = Gyms
+Button_4726F86F_602A_6D19_41C8_C611961164E3.label = Interior Design
+Button_4726F86F_602A_6D19_41C8_C611961164E3_mobile.label = Interior Design
+Button_435DADC0_612D_9F99_41C7_9E9D1EAD2714.label = Portfolio
+Button_435DADC0_612D_9F99_41C7_9E9D1EAD2714_mobile.label = Portfolio
+Button_472167B1_603A_A309_41D5_19C481509748.label = Real Estate
+Button_472167B1_603A_A309_41D5_19C481509748_mobile.label = Real Estate
+Button_480A1F33_602D_A308_41D3_FA1F05473354_mobile.label = Schools
+Button_480A1F33_602D_A308_41D3_FA1F05473354.label = Schools
+Button_434CFA0F_612D_A4A6_41D6_EAA079A0C5FD.label = Services
+Button_434CFA0F_612D_A4A6_41D6_EAA079A0C5FD_mobile.label = Services
+Button_50C5669A_5F76_E3C9_41C8_16D19CA1069F_mobile.label = Whatsapp
+Button_50C5669A_5F76_E3C9_41C8_16D19CA1069F.label = Whatsapp
+
+### Image
+Image_29848637_628A_686F_41B2_26D38C970122_mobile.url = skin/Image_29848637_628A_686F_41B2_26D38C970122_mobile_en.jpg
+Image_2984F637_628A_686F_41D0_C4AAD28970C8_mobile.url = skin/Image_2984F637_628A_686F_41D0_C4AAD28970C8_mobile_en.png
+Image_29858631_628A_6863_41D1_B27981F8CBDC_mobile.url = skin/Image_29858631_628A_6863_41D1_B27981F8CBDC_mobile_en.jpg
+Image_2985F632_628A_6861_41D1_2D37F440B14E_mobile.url = skin/Image_2985F632_628A_6861_41D1_2D37F440B14E_mobile_en.png
+Image_2EE3D3AF_629E_287E_41B1_A6E1A5E03C77_mobile.url = skin/Image_2EE3D3AF_629E_287E_41B1_A6E1A5E03C77_mobile_en.jpg
+Image_2EE3F3AF_629E_287E_41D7_305A33604455_mobile.url = skin/Image_2EE3F3AF_629E_287E_41D7_305A33604455_mobile_en.png
+Image_4102C0FD_61BA_69E2_4177_4BDBFA846010.url = skin/Image_4102C0FD_61BA_69E2_4177_4BDBFA846010_en.png
+Image_4102C0FD_61BA_69E2_4177_4BDBFA846010_mobile.url = skin/Image_4102C0FD_61BA_69E2_4177_4BDBFA846010_mobile_en.png
+Image_41162634_61B6_6861_41D5_3513E734EF44.url = skin/Image_41162634_61B6_6861_41D5_3513E734EF44_en.png
+Image_412650E1_61BE_29E3_41D7_BEFCA8D0F869.url = skin/Image_412650E1_61BE_29E3_41D7_BEFCA8D0F869_en.png
+Image_412650E1_61BE_29E3_41D7_BEFCA8D0F869_mobile.url = skin/Image_412650E1_61BE_29E3_41D7_BEFCA8D0F869_mobile_en.png
+Image_41445A7F_61BD_D8DF_41C0_041EEE66DC7C.url = skin/Image_41445A7F_61BD_D8DF_41C0_041EEE66DC7C_en.png
+Image_41528759_61B6_6823_41D0_17C55A036CE4.url = skin/Image_41528759_61B6_6823_41D0_17C55A036CE4_en.png
+Image_41528759_61B6_6823_41D0_17C55A036CE4_mobile.url = skin/Image_41528759_61B6_6823_41D0_17C55A036CE4_mobile_en.png
+Image_418A03A3_61BE_6866_41C4_716580369EDE.url = skin/Image_418A03A3_61BE_6866_41C4_716580369EDE_en.png
+Image_418A03A3_61BE_6866_41C4_716580369EDE_mobile.url = skin/Image_418A03A3_61BE_6866_41C4_716580369EDE_mobile_en.png
+Image_41A56A20_61BE_D862_41C0_2FB0CB95437C.url = skin/Image_41A56A20_61BE_D862_41C0_2FB0CB95437C_en.png
+Image_41A56A20_61BE_D862_41C0_2FB0CB95437C_mobile.url = skin/Image_41A56A20_61BE_D862_41C0_2FB0CB95437C_mobile_en.png
+Image_41B10ED4_61BB_D821_41CE_31F188FA3554.url = skin/Image_41B10ED4_61BB_D821_41CE_31F188FA3554_en.png
+Image_450CD1E0_54C5_D61B_41BC_746A58D9B879.url = skin/Image_450CD1E0_54C5_D61B_41BC_746A58D9B879_en.png
+Image_450CD1E0_54C5_D61B_41BC_746A58D9B879_mobile.url = skin/Image_450CD1E0_54C5_D61B_41BC_746A58D9B879_mobile_en.png
+Image_4572B1E0_54C5_D61B_41D3_39A196312CED.url = skin/Image_4572B1E0_54C5_D61B_41D3_39A196312CED_en.jpg
+Image_4572B1E0_54C5_D61B_41D3_39A196312CED_mobile.url = skin/Image_4572B1E0_54C5_D61B_41D3_39A196312CED_mobile_en.jpg
+Image_4611CE30_54DC_4A7B_41D3_A655D818A93A.url = skin/Image_4611CE30_54DC_4A7B_41D3_A655D818A93A_en.png
+Image_4614EE34_54DC_4A7B_41D2_23F80870E3E6.url = skin/Image_4614EE34_54DC_4A7B_41D2_23F80870E3E6_en.png
+Image_4614EE34_54DC_4A7B_41D2_23F80870E3E6_mobile.url = skin/Image_4614EE34_54DC_4A7B_41D2_23F80870E3E6_mobile_en.png
+Image_46155E31_54DC_4A7D_41B0_509EB0B36AB0.url = skin/Image_46155E31_54DC_4A7D_41B0_509EB0B36AB0_en.png
+Image_46177E32_54DC_4A7F_41D3_28BABD57C1AA.url = skin/Image_46177E32_54DC_4A7F_41D3_28BABD57C1AA_en.png
+Image_46177E32_54DC_4A7F_41D3_28BABD57C1AA_mobile.url = skin/Image_46177E32_54DC_4A7F_41D3_28BABD57C1AA_mobile_en.png
+Image_49297342_598F_6907_41C2_E0D5DF50223E.url = skin/Image_49297342_598F_6907_41C2_E0D5DF50223E_en.png
+Image_49297342_598F_6907_41C2_E0D5DF50223E_mobile.url = skin/Image_49297342_598F_6907_41C2_E0D5DF50223E_mobile_en.png
+Image_492CF342_598F_6907_41C1_F1754427C23E.url = skin/Image_492CF342_598F_6907_41C1_F1754427C23E_en.png
+Image_492CF342_598F_6907_41C1_F1754427C23E_mobile.url = skin/Image_492CF342_598F_6907_41C1_F1754427C23E_mobile_en.png
+Image_4BD3C109_598D_6905_41BF_B8CA6B261E31.url = skin/Image_4BD3C109_598D_6905_41BF_B8CA6B261E31_en.jpeg
+Image_4BD3C109_598D_6905_41BF_B8CA6B261E31_mobile.url = skin/Image_4BD3C109_598D_6905_41BF_B8CA6B261E31_mobile_en.jpeg
+Image_4E271C24_5F8A_E6F9_41D1_2A9A4932015F.url = skin/Image_4E271C24_5F8A_E6F9_41D1_2A9A4932015F_en.png
+Image_4E271C24_5F8A_E6F9_41D1_2A9A4932015F_mobile.url = skin/Image_4E271C24_5F8A_E6F9_41D1_2A9A4932015F_mobile_en.png
+Image_4F9550ED_618D_E9E2_41BA_45577D22FA2B.url = skin/Image_4F9550ED_618D_E9E2_41BA_45577D22FA2B_en.png
+Image_4F9550ED_618D_E9E2_41BA_45577D22FA2B_mobile.url = skin/Image_4F9550ED_618D_E9E2_41BA_45577D22FA2B_mobile_en.png
+Image_4FCF10F5_5F8B_3F5B_41B3_1CD721D1DB64.url = skin/Image_4FCF10F5_5F8B_3F5B_41B3_1CD721D1DB64_en.png
+Image_4FCF10F5_5F8B_3F5B_41B3_1CD721D1DB64_mobile.url = skin/Image_4FCF10F5_5F8B_3F5B_41B3_1CD721D1DB64_mobile_en.png
+Image_50C5B69A_5F76_E3C9_41D1_D4A45EB3731E.url = skin/Image_50C5B69A_5F76_E3C9_41D1_D4A45EB3731E_en.png
+Image_50C5B69A_5F76_E3C9_41D1_D4A45EB3731E_mobile.url = skin/Image_50C5B69A_5F76_E3C9_41D1_D4A45EB3731E_mobile_en.png
+Image_50C6069A_5F76_E3C9_41BE_37AFA8853018.url = skin/Image_50C6069A_5F76_E3C9_41BE_37AFA8853018_en.jpg
+Image_50C6069A_5F76_E3C9_41BE_37AFA8853018_mobile.url = skin/Image_50C6069A_5F76_E3C9_41BE_37AFA8853018_mobile_en.jpg
+Image_53099914_5F76_EED8_41D3_55532A661AA0.url = skin/Image_53099914_5F76_EED8_41D3_55532A661AA0_en.png
+Image_53099914_5F76_EED8_41D3_55532A661AA0_mobile.url = skin/Image_53099914_5F76_EED8_41D3_55532A661AA0_mobile_en.png
+Image_561A0533_598F_6905_41D2_4C462BCA9E71.url = skin/Image_561A0533_598F_6905_41D2_4C462BCA9E71_en.png
+Image_561A0533_598F_6905_41D2_4C462BCA9E71_mobile.url = skin/Image_561A0533_598F_6905_41D2_4C462BCA9E71_mobile_en.png
+Image_561A7532_598F_6907_41D3_2B938C47ABEF.url = skin/Image_561A7532_598F_6907_41D3_2B938C47ABEF_en.png
+Image_561A7532_598F_6907_41D3_2B938C47ABEF_mobile.url = skin/Image_561A7532_598F_6907_41D3_2B938C47ABEF_mobile_en.png
+Image_562A9FB4_598D_3903_41B8_431E81F71D4C.url = skin/Image_562A9FB4_598D_3903_41B8_431E81F71D4C_en.png
+Image_562A9FB4_598D_3903_41B8_431E81F71D4C_mobile.url = skin/Image_562A9FB4_598D_3903_41B8_431E81F71D4C_mobile_en.png
+Image_562CDFB7_598D_390D_41CB_EBC89EC03C32.url = skin/Image_562CDFB7_598D_390D_41CB_EBC89EC03C32_en.jpeg
+Image_562CDFB7_598D_390D_41CB_EBC89EC03C32_mobile.url = skin/Image_562CDFB7_598D_390D_41CB_EBC89EC03C32_mobile_en.jpeg
+Image_562D3FB4_598D_3903_41C2_C0B38D5346EC.url = skin/Image_562D3FB4_598D_3903_41C2_C0B38D5346EC_en.jpg
+Image_562D3FB4_598D_3903_41C2_C0B38D5346EC_mobile.url = skin/Image_562D3FB4_598D_3903_41C2_C0B38D5346EC_mobile_en.jpg
+Image_569D02EA_598D_2B07_41CF_031A234158C3.url = skin/Image_569D02EA_598D_2B07_41CF_031A234158C3_en.png
+Image_569D02EA_598D_2B07_41CF_031A234158C3_mobile.url = skin/Image_569D02EA_598D_2B07_41CF_031A234158C3_mobile_en.png
+Image_56A162EA_598D_2B04_41D1_43605CAD1082.url = skin/Image_56A162EA_598D_2B04_41D1_43605CAD1082_en.png
+Image_56A162EA_598D_2B04_41D1_43605CAD1082_mobile.url = skin/Image_56A162EA_598D_2B04_41D1_43605CAD1082_mobile_en.png
+Image_5A830EE0_54C4_CA1A_4180_B39F7C0A60E2.url = skin/Image_5A830EE0_54C4_CA1A_4180_B39F7C0A60E2_en.jpg
+Image_5A830EE0_54C4_CA1A_4180_B39F7C0A60E2_mobile.url = skin/Image_5A830EE0_54C4_CA1A_4180_B39F7C0A60E2_mobile_en.jpg
+Image_5A89CEEE_54C4_CBE6_41CC_9BE03112C0E9.url = skin/Image_5A89CEEE_54C4_CBE6_41CC_9BE03112C0E9_en.jpg
+Image_5A89CEEE_54C4_CBE6_41CC_9BE03112C0E9_mobile.url = skin/Image_5A89CEEE_54C4_CBE6_41CC_9BE03112C0E9_mobile_en.jpg
+Image_5A8BCEEC_54C4_CBEA_41D0_73AF90ED0A04.url = skin/Image_5A8BCEEC_54C4_CBEA_41D0_73AF90ED0A04_en.jpg
+Image_5A8BCEEC_54C4_CBEA_41D0_73AF90ED0A04_mobile.url = skin/Image_5A8BCEEC_54C4_CBEA_41D0_73AF90ED0A04_mobile_en.jpg
+Image_5A8EFEE1_54C4_CA1A_41C3_C6275EAE5155.url = skin/Image_5A8EFEE1_54C4_CA1A_41C3_C6275EAE5155_en.png
+Image_5A8EFEE1_54C4_CA1A_41C3_C6275EAE5155_mobile.url = skin/Image_5A8EFEE1_54C4_CA1A_41C3_C6275EAE5155_mobile_en.png
+Image_6F2E7867_613B_A566_41D1_DD700D01B404.url = skin/Image_6F2E7867_613B_A566_41D1_DD700D01B404_en.jpg
+Image_6F2E7867_613B_A566_41D1_DD700D01B404_mobile.url = skin/Image_6F2E7867_613B_A566_41D1_DD700D01B404_mobile_en.jpg
+Image_70438E60_615B_FC99_41C9_12750EA4DFA6.url = skin/Image_70438E60_615B_FC99_41C9_12750EA4DFA6_en.jpg
+Image_70438E60_615B_FC99_41C9_12750EA4DFA6_mobile.url = skin/Image_70438E60_615B_FC99_41C9_12750EA4DFA6_mobile_en.jpg
+Image_70E3D39D_615A_ABAA_416B_B607BF87F1A1.url = skin/Image_70E3D39D_615A_ABAA_416B_B607BF87F1A1_en.jpg
+Image_71BF2E5E_615B_FCA9_41C5_23A77AC55772.url = skin/Image_71BF2E5E_615B_FCA9_41C5_23A77AC55772_en.jpg
+Image_71D02AE7_615A_A567_41C3_73995CD0A24A.url = skin/Image_71D02AE7_615A_A567_41C3_73995CD0A24A_en.jpeg
+Image_71D02AE7_615A_A567_41C3_73995CD0A24A_mobile.url = skin/Image_71D02AE7_615A_A567_41C3_73995CD0A24A_mobile_en.jpeg
+Image_7497259D_6176_2823_41D2_88493FD0B91D.url = skin/Image_7497259D_6176_2823_41D2_88493FD0B91D_en.jpg
+Image_7497259D_6176_2823_41D2_88493FD0B91D_mobile.url = skin/Image_7497259D_6176_2823_41D2_88493FD0B91D_mobile_en.jpg
+Image_75697E44_615A_BC99_41B8_A4C8C33BF0F9.url = skin/Image_75697E44_615A_BC99_41B8_A4C8C33BF0F9_en.jpg
+Image_75697E44_615A_BC99_41B8_A4C8C33BF0F9_mobile.url = skin/Image_75697E44_615A_BC99_41B8_A4C8C33BF0F9_mobile_en.jpg
+Image_756ABE47_615A_BCA7_41B3_B49EFB9142F6.url = skin/Image_756ABE47_615A_BCA7_41B3_B49EFB9142F6_en.jpg
+Image_756ABE47_615A_BCA7_41B3_B49EFB9142F6_mobile.url = skin/Image_756ABE47_615A_BCA7_41B3_B49EFB9142F6_mobile_en.jpg
+Image_756B5E46_615A_BC99_419B_B8D87FF90764.url = skin/Image_756B5E46_615A_BC99_419B_B8D87FF90764_en.jpg
+Image_756B5E46_615A_BC99_419B_B8D87FF90764_mobile.url = skin/Image_756B5E46_615A_BC99_419B_B8D87FF90764_mobile_en.jpg
+Image_75749E4A_615A_BCA9_41D6_68B7956977A3.url = skin/Image_75749E4A_615A_BCA9_41D6_68B7956977A3_en.jpg
+Image_75749E4A_615A_BCA9_41D6_68B7956977A3_mobile.url = skin/Image_75749E4A_615A_BCA9_41D6_68B7956977A3_mobile_en.jpg
+Image_75758E48_615A_BCA9_4140_8C9DC954FFE0.url = skin/Image_75758E48_615A_BCA9_4140_8C9DC954FFE0_en.jpg
+Image_7E7611B3_61BE_2867_41D0_D78763A830C9.url = skin/Image_7E7611B3_61BE_2867_41D0_D78763A830C9_en.png
+Image_7E7611B3_61BE_2867_41D0_D78763A830C9_mobile.url = skin/Image_7E7611B3_61BE_2867_41D0_D78763A830C9_mobile_en.png
+Image_7F505413_616A_6CBE_4185_A7B328503C38.url = skin/Image_7F505413_616A_6CBE_4185_A7B328503C38_en.jpg
+Image_7F505413_616A_6CBE_4185_A7B328503C38_mobile.url = skin/Image_7F505413_616A_6CBE_4185_A7B328503C38_mobile_en.jpg
+
+### Label
+Label_5B128001_61BA_2822_41D7_4205D1CF5095_mobile.text = 360 Car Interior & Exterior 
+Label_48B3F81B_5F97_6ECF_41CE_D0C5C0C773A6.text = 360 Car Interior & Exterior 
+Label_48B3581B_5F97_6ECF_41B6_7CEDD3E1F6B2.text = 360 Live
+Label_48B3581B_5F97_6ECF_41B6_7CEDD3E1F6B2_mobile.text = 360 Live
+Label_5AD5AF21_61BA_3863_41C7_55D346133C1C_mobile.text = 360 Videography 
+Label_4978C55C_5F97_6149_41D7_038B92B8663E.text = 360 Videography 
+Label_75741E46_615A_BC99_41B0_6D809FAFED0E.text = Amal Morsy Office
+Label_75741E46_615A_BC99_41B0_6D809FAFED0E_mobile.text = Amal Morsy Office
+Label_4BCD3109_598D_6905_41C4_4531A8848DD8.text = Befit 360 PK1
+Label_4BCD3109_598D_6905_41C4_4531A8848DD8_mobile.text = Befit 360 PK1
+Label_562F1FB8_598D_3903_41D4_CA1EF32565D1_mobile.text = Befit 360 Waterway
+Label_562F1FB8_598D_3903_41D4_CA1EF32565D1.text = Befit 360 Waterway
+Label_50C6269A_5F76_E3C9_4173_B8D98EBDE042_mobile.text = Contact Us
+Label_50C6269A_5F76_E3C9_4173_B8D98EBDE042.text = Contact Us
+Label_756A6E45_615A_BC9B_41C9_7F738DBAC202_mobile.text = Eastown Apartment
+Label_4571F1E1_54C5_D61D_41B2_B5645C64256C_mobile.text = Edition One
+Label_4571F1E1_54C5_D61D_41B2_B5645C64256C.text = Edition One
+Label_46137E33_54DC_4A7D_41D3_0836E5E09A8F_mobile.text = Golds Gym 9 Branches
+Label_46137E33_54DC_4A7D_41D3_0836E5E09A8F.text = Golds Gym 9 Branches
+Label_46104E31_54DC_4A7D_41D4_CC02B7A6664F.text = Golds Gym Concord
+Label_46122E34_54DC_4A7B_41C0_D7E88347A67E.text = Golds Gym San Stefano
+Label_46122E34_54DC_4A7B_41C0_D7E88347A67E_mobile.text = Golds Gym San Stefano
+Label_497BB55C_5F97_6149_41AB_69F0866B51C4_mobile.text = Google Maps Virtual Tours
+Label_497BB55C_5F97_6149_41AB_69F0866B51C4.text = Google Maps Virtual Tours
+Label_70E6339E_615A_ABA6_41BC_304D7A7FE204.text = Isqan & Coldwell Banker
+Label_29845634_628A_6861_41D4_F87E8B385B84_mobile.text = Isqan & Coldwell Banker
+Label_7042FE5F_615B_FCA7_4189_EB9C259A1EC0.text = Katameya Dunes Villa
+Label_29873638_628A_6861_419A_B1E92D74AE32_mobile.text = Katameya Dunes Villa
+Label_75776E48_615A_BCA9_41C9_A2DB95877C6E_mobile.text = Lotus Apartment
+Label_75776E48_615A_BCA9_41C9_A2DB95877C6E.text = Lotus Apartment
+Label_5A80BEE1_54C4_CA1D_41A0_750F15FB29C1.text = Lyman Motorsports
+Label_5A80BEE1_54C4_CA1D_41A0_750F15FB29C1_mobile.text = Lyman Motorsports
+Label_756ADE4B_615A_BCAF_41D1_0E3837A5D295_mobile.text = Mivida 
+Label_756ADE4B_615A_BCAF_41D1_0E3837A5D295.text = Mivida 
+Label_70438E60_615B_FC99_41B2_810CF85E1C98.text = Mountain View i-city
+Label_70438E60_615B_FC99_41B2_810CF85E1C98_mobile.text = Mountain View i-city
+Label_749635A3_6176_2867_41BC_04454A3FC714_mobile.text = Remax AB Property
+Label_749635A3_6176_2867_41BC_04454A3FC714.text = Remax AB Property
+Label_6C9B639D_613A_ABAB_41BC_2F6283047AB2.text = Remax Al-Mohager
+Label_6C9B639D_613A_ABAB_41BC_2F6283047AB2_mobile.text = Remax Al-Mohager
+Label_4A636F19_5F89_62CB_41D3_5CF628A19488.text = Services
+Label_4A636F19_5F89_62CB_41D3_5CF628A19488_mobile.text = Services
+Label_5A8DFEEE_54C4_CBE6_41B9_412A3C2C2375_mobile.text = Shooting Hub
+Label_5A8DFEEE_54C4_CBE6_41B9_412A3C2C2375.text = Shooting Hub
+Label_756A6E45_615A_BC9B_41C9_7F738DBAC202.text = Sodic Eastown Apartment
+Label_75758E49_615A_BCAB_41B9_F511DC80DD9B.text = Sokhna Chalet
+Label_2EE063B0_629E_2862_41C1_E60FA5130ACC_mobile.text = Sokhna Chalet
+Label_561BD533_598F_6905_41D6_4A4CFA436722_mobile.text = UFC Capital
+Label_561BD533_598F_6905_41D6_4A4CFA436722.text = UFC Capital
+Label_569F32EA_598D_2B04_41B2_8E8EA7C79BF9.text = UFC Club
+Label_569F32EA_598D_2B04_41B2_8E8EA7C79BF9_mobile.text = UFC Club
+Label_492ED343_598F_6905_419F_305803DAA115_mobile.text = UFC Zayed
+Label_492ED343_598F_6905_419F_305803DAA115.text = UFC Zayed
+Label_71D53AE8_615A_A569_4186_E5748FD390EE_mobile.text = V Developments
+Label_71D53AE8_615A_A569_4186_E5748FD390EE.text = V Developments
+Label_479E02FB_5F8B_234F_41D6_421236581075.text = Virtual Reality Applications
+Label_59184397_61BE_282E_41D0_AB9D8B9D8E89_mobile.text = Virtual Reality Applications
+Label_48E1D861_5FBB_2F7B_41CC_749FEF4B3BA4_mobile.text = Virtual Tours
+Label_48E1D861_5FBB_2F7B_41CC_749FEF4B3BA4.text = Virtual Tours
+Label_5A8CAEEC_54C4_CBEA_41C5_E726906D745C.text = Voss Exotics
+Label_5A8CAEEC_54C4_CBEA_41C5_E726906D745C_mobile.text = Voss Exotics
+Label_562D8FB5_598D_390D_41D5_E4C9FDFF70F9_mobile.text = World Gym Nasr City
+Label_562D8FB5_598D_390D_41D5_E4C9FDFF70F9.text = World Gym Nasr City
+
+### Multiline Text
+HTMLText_4E1B54D1_5037_22E0_41C3_E69F8394B92C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:6.1111111111111125vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:6.11vmin;">About Us</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.78vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:4.72vmin;">9D Visit is a professional virtual tour provider. Virtual tours are designed to allow your clients to step inside your business to take a full 3D tour without leaving the comfort of their own homes. Whether you’re a real estate, school, hotel, gym, vehicle store or an interior design firm; a virtual tour can bring that extra visibility to your business. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.78vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:4.72vmin;">There’s a big difference between a website with some text and images, and an immersive, interactive experience — and custom virtual tours give you that edge. Moreover, Due to the pandemic of covid-19, this is a way for introducing people to your business without having to physically be there thus increasing visibility and sales. </SPAN></SPAN></DIV></div>
+HTMLText_4E1B54D1_5037_22E0_41C3_E69F8394B92C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:6.2222222222222285vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:6.22vmin;">About Us</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.48vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.78vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.8518518518518494vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:3.85vmin;">9D Visit is a professional virtual tour provider. Virtual tours are designed to allow your clients to step inside your business to take a full 3D tour without leaving the comfort of their own homes. Whether you’re a real estate, school, hotel, gym, vehicle store or an interior design firm; a virtual tour can bring that extra visibility to your business. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.78vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.8518518518518494vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:3.85vmin;">There’s a big difference between a website with some text and images, and an immersive, interactive experience — and custom virtual tours give you that edge. Moreover, Due to the pandemic of covid-19, this is a way for introducing people to your business without having to physically be there thus increasing visibility and sales. </SPAN></SPAN></DIV></div>
+HTMLText_50C5F69A_5F76_E3C9_41D3_59288E606F3A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:2.9629629629629624vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:2.96vmin;">Salah Mohamed</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.0740740740740744vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:2.07vmin;">Founder</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.96vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.46vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.9629629629629624vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:2.96vmin;">Phone: +201220000538</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.96vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.46vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.9629629629629624vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:2.96vmin;">Email: info@9dvisit.com</SPAN></SPAN></DIV></div>
+HTMLText_50C5F69A_5F76_E3C9_41D3_59288E606F3A_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.46vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:4.999999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:5vmin;">Salah Mohamed</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:3.8888888888888897vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:3.89vmin;">Founder</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.46vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:4.999999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:5vmin;">Phone: +201220000538</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.46vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:4.999999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#213341;font-size:5vmin;">Email: info@9dvisit.com</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Professional Virtual Tour Provider
+
+### Title
+tour.name = 9D Visit
